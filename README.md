@@ -6,13 +6,14 @@ Tema 3, Tahap 1 (Array & Struct).
 ## 1. Nama & Anggota Kelompok
 
 **Sistem:** Sistem Perpustakaan Mini
-**Kelompok:** [isi nama kelompok]
+**Kelompok:** [4]
 
 | No | Nama | NIM | Username GitHub |
 |----|------|-----|-----------------|
-| 1 | [nama] | [NIM] | [username] |
-| 2 | [nama] | [NIM] | [username] |
-| 3 | [nama] | [NIM] | [username] |
+| 1 | [Novira Amelia Margaret] | [25083000066] | [noviramargaret@gmail.com] |
+| 2 | [Diflora Hilda Jelirusma Tole] | [25083000036] | [hildatole618@gmail.com] |
+| 3 | [Veronika Susanti Kae] | [25083000037] | [santiwanggul@gmail.com] |
+| 4 | [Martha Hilda Eren] | [25083000055] | [hildaerend@gmail.com] |
 
 ## 2. Deskripsi Sistem
 
@@ -43,10 +44,10 @@ Pilih menu dengan mengetik angka lalu tekan Enter. Menu 7 memuat data contoh unt
 
 | Anggota | Tugas |
 |---------|-------|
-| [nama] | [contoh: F1 Tambah Buku + validasi] |
-| [nama] | [contoh: F2 Tampilkan Semua + F3 Cari Buku] |
-| [nama] | [contoh: F4 Update Status + F5 Filter Genre] |
-| [nama] | [contoh: F6 Hapus Buku + README + pengujian] |
+| [Novira Amelia Margaret] | [tambah_buku, kode_sudah_ada] |
+| [Diflora Hilda Jelirusma Tole] | [tampilkan_semua_buku, tampilkan_tabel, cari_buku] |
+| [Veronika Susanti Kae] | [cupdate_status_buku, filter_berdasarkan_genre] |
+| [Martha Hilda Eren] | [hapus_buku, main.py] |
 
 ## Struktur File
 
