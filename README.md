@@ -44,10 +44,10 @@ Pilih menu dengan mengetik angka lalu tekan Enter. Menu 7 memuat data contoh unt
 
 | Anggota | Tugas |
 |---------|-------|
-| [Novira Amelia Margaret] | [tambah_buku, kode_sudah_ada] |
-| [Diflora Hilda Jelirusma Tole] | [tampilkan_semua_buku, tampilkan_tabel, cari_buku] |
-| [Veronika Susanti Kae] | [cupdate_status_buku, filter_berdasarkan_genre] |
-| [Martha Hilda Eren] | [hapus_buku, main.py] |
+| [Novira Amelia Margaret] | [Tambah Struktur Awal Project dan README] |
+| [Diflora Hilda Jelirusma Tole] | [Data Anggota] |
+| [Veronika Susanti Kae] | [Pembagian Tugas] |
+| [Martha Hilda Eren] | [Intial Commit] |
 
 ## Struktur File
 
