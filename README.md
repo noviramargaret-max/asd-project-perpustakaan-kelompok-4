@@ -29,7 +29,7 @@ cd asd-project-perpustakaan-[nama-kelompok]
 python main.py
 ```
 
-Pilih menu dengan mengetik angka lalu tekan Enter. Menu 7 memuat data contoh untuk demo.
+Pilih menu dengan mengetik angka lalu tekan Enter. Menu 7 memuat data untuk demo.
 
 ## 4. Fitur yang Sudah Ada
 
